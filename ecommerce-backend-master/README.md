@@ -2,15 +2,16 @@
  Ecommerce backend apis
  
 Backend
-https://github.com/Razeetech/e-commerce-project-backend/blob/main/ecommerce-backend-master/
+https://github.com/webtutsplus/ecommerce-backend
 
-https://https://18.216.67.25/
+https://limitless-lake-55070.herokuapp.com/swagger-ui.html 
 
 Frontend
 
-https://github.com/Razeetech/e-commerce-project-frontend
+https://github.com/webtutsplus/ecommerce-vuejs 
 
-https://https://github.com/Razeetech/e-commerce-project-frontend
+https://infallible-swartz-b50174.netlify.app/
+
 
 
 * This is a Maven Project. Ensure, Maven is installed on your system.
