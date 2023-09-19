@@ -2,21 +2,21 @@
  Ecommerce backend apis
  
 Backend
-https://github.com/webtutsplus/ecommerce-backend
+(https://github.com/Razeetech/e-commerce-project-backend/tree/main/ecommerce-backend-master)
 
-https://limitless-lake-55070.herokuapp.com/swagger-ui.html 
+(https://18.216.67.25/8443)
 
 Frontend
 
-https://github.com/webtutsplus/ecommerce-vuejs 
+https://github.com/Razeetech/e-commerce-project-frontend
 
-https://infallible-swartz-b50174.netlify.app/
+https://18.216.67.25/80
 
 
 
 * This is a Maven Project. Ensure, Maven is installed on your system.
 * It is Recommended that you use Linux Based OS.
-* It might happen that you have installed XAMPP/LAMPP software (by Bitnami) on your system. Instead of using the db provided by XAMPP/LAMPP by bitnami, it is recommended that you install ``mariadb-server`` and use it as  database while running this application.  
+* It might happen that you have installed XAMPP/LAMPP software (by Bitnami) on your system. Instead of using the db provided by XAMPP/LAMPP by bitnami, it is recommended that you install ``mySQL-server`` and use it as  database while running this application.  
 
 ###How to run in local
 1. Rename ``src/main/resources/application.properties.example`` to ``src/main/resources/application.properties``.
