@@ -147,16 +147,16 @@ public class UserService {
         return false;
     }
 
-    boolean canCrudUser(User userUpdating, Integer userIdBeingUpdated) {
-        Role role = userUpdating.getRole();
-        // admin and manager can crud any user
-        if (role == Role.admin || role == Role.manager) {
-            return true;
-        }
-        // user can update his own record, but not his role
-        if (role == Role.user && userUpdating.getId() == userIdBeingUpdated) {
-            return true;
-        }
-        return false;
+//    boolean canCrudUser(User userUpdating, Integer userIdBeingUpdated) {
+//        Role role = userUpdating.getRole();
+//        // admin and manager can crud any user
+//        if (role == Role.admin || role == Role.manager) {
+//            return true;
+//        }
+//        // user can update his own record, but not his role
+//        if (role == Role.user && userUpdating.getId() == userIdBeingUpdated) {
+//            return true;
+//        }
+//        return false;
     }
 }
