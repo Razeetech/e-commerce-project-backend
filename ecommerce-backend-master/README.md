@@ -2,15 +2,15 @@
  Ecommerce backend apis
  
 Backend
-https://github.com/webtutsplus/ecommerce-backend
+(https://github.com/Razeetech/e-commerce-project-backend/tree/main/ecommerce-backend-master)
 
-https://limitless-lake-55070.herokuapp.com/swagger-ui.html 
+http://ec2-18-222-166-47.us-east-2.compute.amazonaws.com/cart
 
 Frontend
 
-https://github.com/webtutsplus/ecommerce-vuejs 
+https://github.com/Razeetech/e-commerce-project-frontend/tree/main/ecommerce-vuejs-master#readme
 
-https://infallible-swartz-b50174.netlify.app/
+http://ec2-18-222-166-47.us-east-2.compute.amazonaws.com/cart
 
 
 
